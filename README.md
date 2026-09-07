@@ -1,4 +1,4 @@
-![](docs/images/Apache Ignite Vector Index.jpg)
+![](docs/images/apache-ignite-vector-index.jpg)
 # Apache Ignite Vector Index
 
 Проект выполнен в рамках **летней стажировки СберЛаб-НГУ 2026**.
